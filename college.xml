@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<college>
+<student>
+<strollno>2030</strollno>
+<stname>xyz</stname>
+</Student>
+<faculty>
+<fid>5060</fid>
+<fname>abc</fname>
+</faculty>
+</college>
